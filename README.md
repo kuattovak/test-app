@@ -1,4 +1,4 @@
-# firebase_authorization
+# test-app
 
 A new Flutter project.
 
